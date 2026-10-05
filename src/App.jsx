@@ -12,19 +12,19 @@ const siteInfo = {
   // Replace profile.png in src/assets to use your own profile picture.
   image: profileImage,
   location: 'Based in Gainesville, FL',
-  email: 'capybara@ufl.edu',
-  about: 'I enjoy solving puzzles, learning new tools, and working with people who are curious. This website is a place to share what I am learning and making.',
+  email: 'rodriguez.kaylee@ufl.edu',
+  about: 'I enjoy watching K-dramas, playing video games, and solving puzzles. This website is a place to share what I am learning and making.',
   // Add, remove, or rename languages and tools in this list.
-  skills: ['JavaScript', 'Python', 'React', 'HTML & CSS', 'Git & GitHub'],
+  skills: ['JavaScript', 'Python', 'Java', 'C++', 'HTML & CSS', 'Git & GitHub'],
   // Add a new project by copying one of these lines and changing its words.
   projects: [
-    { title: 'Calculator', description: 'A simple calculator.', tag: 'Python project' },
+    { title: 'Blackjack', description: 'A simple blackjack game.', tag: 'Python project' },
     { title: 'Your swamphacks project...', description: 'Coming Soon.', tag: 'TBD' },
   ],
   // Add your social links here. You can remove any of these if you don't want them to show up.
   links: {
-    github: 'https://github.com/your-username',
-    linkedin: 'https://www.linkedin.com/in/your-username',
+    github: 'https://github.com/KayleeR26',
+    linkedin: 'https://www.linkedin.com/in/kaylee-rodriguez01',
   },
 }
 
